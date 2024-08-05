@@ -1,3 +1,21 @@
+# Pantry Tracker
+
+Pantry Tracker is a React-based web application designed to help users keep track of their pantry inventory. It allows users to add, remove, and search for items in their pantry, and includes pagination for easy navigation through large inventories.
+
+Features
+
+* Add and Remove Items: Users can add new items to the pantry or remove existing ones.
+
+* Search Functionality: Quickly search for items in the pantry.
+
+* Pagination: Easily navigate through large inventories with pagination.
+* Responsive Design: Designed to be responsive and user-friendly.
+* Themed UI: Styled with Material-UI to provide a modern and cohesive look.
+Technologies Used
+* React
+* Firebase Firestore
+* Material-UI
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,5 +52,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Pantry_Tracker
-# Pantry_Tracker
+
+
